@@ -73,7 +73,7 @@
         -   fixing issues
         -   make any suggested changes
 
-![SprintTimeline](https://parabol.co/hs-fs/hubfs/The%205%20Scrum%20Ceremonies%20in%20Order.png?width=1518&name=The%205%20Scrum%20Ceremonies%20in%20Order.png)
+![SprintTimeline](https://user-images.githubusercontent.com/34101326/181030301-69636f27-8361-42e5-acf2-2e0281ac9430.png)
 
 ## User Story
 
